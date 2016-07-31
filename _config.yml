@@ -1,0 +1,14 @@
+name: mundobcn
+layout_spectrum: 0.3623689669726976
+typography_spectrum: 0.3979441127472061
+color:
+  brandColors:
+    - '#F2385A'
+    - '#F5A503'
+    - '#E9F1DF'
+    - '#4AD9D9'
+    - '#36B1BF'
+  brandStrength: 0.3760482070119625
+  lightness: 0.47006949791260844
+  saturation: 0.9218769386333966
+  rhythmicContrast: 0.1399000959495975
